@@ -143,10 +143,10 @@ ul{
     color: black;
 }
 
-@media (min-width:768px){
-    .toggle-menu{
-        display: none;
-    }
+@media (min-width: 768px) {
+  header nav .toggle-menu {
+    display: none;
+  }
 }
 
 @media (max-width:767px){
